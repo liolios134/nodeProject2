@@ -4,18 +4,21 @@
     "name": "Core i7",
     "price": 700,
     "category": "pc-parts",
+    "photo": "https://c1.neweggimages.com/NeweggImage/ProductImage/19-117-958-V03.jpg",
     "sale": 400
   },
   {
     "_id": 2,
     "name": "Core i5",
     "price": 500,
+    "photo": "https://b.scdn.gr/images/sku_main_images/010787/10787891/20170109113808_intel_core_i5_7600k_box.jpeg",
     "category": "pc-parts"
   },
   {
     "_id": 3,
     "name": "Core i9",
     "price": 900,
+    "photo": "https://c.scdn.gr/images/sku_main_images/016078/16078417/20181010124732_intel_core_i9_9900k_box.jpeg",
     "category": "pc-parts"
   },
   {
@@ -23,6 +26,7 @@
     "name": "Core i3",
     "price": 300,
     "category": "pc-parts",
+    "photo": "https://b.scdn.gr/images/sku_main_images/012975/12975173/20171005132133_intel_core_i3_8350k_box.jpeg",
     "sale": 100
   }
 ]

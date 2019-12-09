@@ -1,7 +1,10 @@
 const express = require ('express');
+const cors  = require ('cors');
 const app = express();
 const products= require('./products.json');
 app.listen(3000);
+app.use(cors());
+
 
 app.get("/", (req, res)=>{
     res.sendFile(__dirname+"/views/home.html");
